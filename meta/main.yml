@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: tribou
+  description: Configure a swap file on a new Ubuntu or CentOS host.
+  license: MIT
+  min_ansible_version: 1.6
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: CentOS
+    versions:
+    - all
+  categories:
+  - system
+dependencies: []
